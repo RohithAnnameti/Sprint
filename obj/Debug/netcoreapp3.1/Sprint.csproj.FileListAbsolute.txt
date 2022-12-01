@@ -1,0 +1,477 @@
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Sprint.exe
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Sprint.deps.json
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Sprint.runtimeconfig.json
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Sprint.runtimeconfig.dev.json
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Sprint.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Sprint.pdb
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Sprint.Views.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Sprint.Views.pdb
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.csproj.AssemblyReference.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.AssemblyInfoInputs.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.AssemblyInfo.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.csproj.CoreCompileInputs.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorAssemblyInfo.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorAssemblyInfo.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\staticwebassets\Sprint.StaticWebAssets.Manifest.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\staticwebassets\Sprint.StaticWebAssets.xml
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sprint.styles.css
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.TagHelpers.input.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.TagHelpers.output.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorCoreGenerate.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorTargetAssemblyInfo.cache
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorTargetAssemblyInfo.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.Views.pdb
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.csproj.CopyComplete
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.dll
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.pdb
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Sprint.genruntimeconfig.cache
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amrut\source\repos\Sprint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Create.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Delete.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Details.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Edit.cshtml.g.cs
+C:\Users\amrut\source\repos\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Index.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.csproj.AssemblyReference.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.AssemblyInfoInputs.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.AssemblyInfo.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.csproj.CoreCompileInputs.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.MvcApplicationPartsAssemblyInfo.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorAssemblyInfo.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorAssemblyInfo.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.pdb
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\appsettings.json
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.exe
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.deps.json
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.runtimeconfig.json
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.runtimeconfig.dev.json
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.pdb
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.Views.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.Views.pdb
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\staticwebassets\Sprint.StaticWebAssets.Manifest.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\staticwebassets\Sprint.StaticWebAssets.xml
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sprint.styles.css
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.TagHelpers.input.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.TagHelpers.output.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorCoreGenerate.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Create.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Delete.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Details.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Edit.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Index.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorTargetAssemblyInfo.cache
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorTargetAssemblyInfo.cs
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.Views.pdb
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.csproj.CopyComplete
+C:\WagleAmrutha\C# and .NET\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.genruntimeconfig.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.exe
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.deps.json
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.runtimeconfig.json
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.runtimeconfig.dev.json
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.pdb
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.Views.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Sprint.Views.pdb
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.csproj.AssemblyReference.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.AssemblyInfoInputs.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.AssemblyInfo.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.csproj.CoreCompileInputs.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorAssemblyInfo.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorAssemblyInfo.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\staticwebassets\Sprint.StaticWebAssets.Manifest.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\staticwebassets\Sprint.StaticWebAssets.xml
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sprint.styles.css
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.TagHelpers.input.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.TagHelpers.output.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorCoreGenerate.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Create.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Delete.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Details.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Edit.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\Index.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorTargetAssemblyInfo.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.RazorTargetAssemblyInfo.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.Views.pdb
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.csproj.CopyComplete
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.dll
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.pdb
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Sprint.genruntimeconfig.cache
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\EditDetails.cshtml.g.cs
+C:\Users\amrut\Desktop\Sprint\Sprint\Sprint\obj\Debug\netcoreapp3.1\Razor\Views\Patients\GetDetails.cshtml.g.cs

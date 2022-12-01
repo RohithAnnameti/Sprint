@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container-fluid" style="padding: 15px 0px 0px 0px">
+        <div style="width:40%;float:left">
+            <img src="/img/Doc2.png"  />
+        </div>
+        <div style="width:60%;float:left">
+            <h1 class="welcome-header" style="text-align: center; color: #0C7B6E; padding: 50px 0px 20px 0px; font-size: 3.5em; font-weight: 700;">Making health care better together.</h1>
+            <p style="text-align: justify; color: #303030;padding:20px 0px 20px 0px; font-size:1.25em">
+                Web App that can store the data of patients and give a direct access to the admin to process the same.
+
+                Use the Add Patient Button below to enter your details.
+
+
+                You can also edit and view your details, just by knowing the serial number.
+            </p>
+            <div style="text-align:center">
+                <a class="btn btn-primary" asp-area="" asp-controller="Patients" asp-action="Create">Add Patient Data</a>
+            </div>
+        </div>
+</div>
